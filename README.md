@@ -1,2 +1,3 @@
-# Heart-Disease-
+# Heart-Disease-Prediction
 Heart Disease Predictor
+Mini Project
